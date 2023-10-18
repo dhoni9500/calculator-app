@@ -12,7 +12,7 @@ const App=()=> {
   return (
     <div >
 
-    <h1>Sample Calculator</h1>
+    <h1>SAMPLE CALCULATOR</h1>
 
     <div className='cal-con'>
       <center>
